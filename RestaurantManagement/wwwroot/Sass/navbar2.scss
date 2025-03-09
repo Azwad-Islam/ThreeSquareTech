@@ -1,0 +1,38 @@
+$navbar-bg: #ff0000; // Background color
+$navbar-text-color: white;
+
+.navbar {
+    background-color: $navbar-bg;
+    padding: 10px 20px;
+
+    .navbar-brand img {
+        height: 40px; // Adjust logo size
+    }
+
+    .navbar-center {
+        flex-grow: 1; // Pushes About Us to the right
+    }
+
+    .nav-item .nav-link {
+        color: $navbar-text-color;
+        font-weight: bold;
+
+        &:hover {
+            color: lighten($navbar-text-color, 20%);
+        }
+    }
+
+    .custom-link {
+        font-size: 1rem;
+        font-weight: 1200;
+        color: white;
+        padding: 8px 15px;
+        text-decoration: none;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+            color: #f8d7da;
+            text-decoration: underline;
+        }
+    }
+}

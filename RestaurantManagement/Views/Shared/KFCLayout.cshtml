@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+
+
+    <link href="~/css/Style.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+
+
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <img src="~/image/Shrimp.png" alt="Logo" height="40">
+                <span class="navbar-text ms-2">Restaurant</span>
+            </a>
+
+
+            <div class="ms-auto">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a href="@Url.Action("Offers", "Home")" class="nav-link custom-link">Offers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-link">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-link">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+    <main>
+        <div class="banner">
+            <img src="~/image/world-food-day-2020.png" alt="banner">
+        </div>
+        @RenderBody()
+    </main>
+
+    <div class="wrapper">
+
+        <footer class="footer">
+            <div class="footer-content">
+                Copyright ThreeSquareTech
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

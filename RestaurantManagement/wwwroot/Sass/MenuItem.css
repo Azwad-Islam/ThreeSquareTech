@@ -1,0 +1,51 @@
+﻿.menu-items {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.menu-items h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+  color: #333;
+}
+.menu-items .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.menu-items .menu-item {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  width: 100%;
+  max-width: 320px;
+}
+.menu-items .menu-item:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+.menu-items .menu-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+.menu-items .menu-item h3 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+.menu-items .menu-item .price {
+  font-size: 1rem;
+  color: #e74c3c;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
