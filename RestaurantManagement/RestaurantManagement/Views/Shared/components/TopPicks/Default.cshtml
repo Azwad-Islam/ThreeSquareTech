@@ -1,0 +1,15 @@
+﻿<div class="top-picks container">
+    <h2 class="text-center">Top Picks</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <div class="food-item">
+                    <img src="@item.Image" alt="@item.Name">
+                    <h3>@item.Name</h3>
+                    <p class="price">@item.Price</p>
+                </div>
+            </div>
+        }
+    </div>
+</div>

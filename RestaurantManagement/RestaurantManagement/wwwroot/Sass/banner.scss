@@ -1,0 +1,11 @@
+.banner {
+    width: 100%; // Full width of the page
+    height: 330px; // Set fixed height
+    overflow: hidden; // Prevent any overflow issues
+
+    img {
+        width: 100%; // Ensure the image stretches to full width
+        height: 100%; // Ensure it fills the container
+        object-fit: cover; // Crop the image to fit without distortion
+    }
+}

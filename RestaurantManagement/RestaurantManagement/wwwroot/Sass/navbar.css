@@ -1,0 +1,29 @@
+﻿.navbar {
+  background-color: #b6ff00;
+  padding: 10px 20px;
+}
+.navbar .navbar-brand img {
+  height: 40px;
+}
+.navbar .navbar-center {
+  flex-grow: 1;
+}
+.navbar .nav-item .nav-link {
+  color: white;
+  font-weight: bold;
+}
+.navbar .nav-item .nav-link:hover {
+  color: white;
+}
+.navbar .custom-link {
+  font-size: 1rem;
+  font-weight: 1200;
+  color: white;
+  padding: 8px 15px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+.navbar .custom-link:hover {
+  color: #f8d7da;
+  text-decoration: underline;
+}
