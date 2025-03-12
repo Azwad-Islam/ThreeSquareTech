@@ -1,0 +1,19 @@
+﻿@model List<MenuItem>
+
+<div class="menu-items container">
+    <h2 class="text-center">Menu Items</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 col-sm-6 d-flex justify-content-center">
+                <div class="card text-center shadow-sm" style="width: 18rem;">
+                    <img src="@item.Image" class="card-img-top img-fluid" alt="@item.Name" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text text-danger font-weight-bold">@item.Price</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

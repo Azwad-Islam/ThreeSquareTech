@@ -1,0 +1,38 @@
+﻿[
+  {
+    "outputFile": "Views/Styles/style.css",
+    "inputFile": "Views/Styles/style.scss"
+  },
+  {
+    "outputFile": "Views/Home/Sass/style.css",
+    "inputFile": "Views/Home/Sass/style.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/navbar.css",
+    "inputFile": "wwwroot/Sass/navbar.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/footer.css",
+    "inputFile": "wwwroot/Sass/footer.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/TopPicks.css",
+    "inputFile": "wwwroot/Sass/TopPicks.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/MenuItem.css",
+    "inputFile": "wwwroot/Sass/MenuItem.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/style.css",
+    "inputFile": "wwwroot/Sass/style.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/navbar2.css",
+    "inputFile": "wwwroot/Sass/navbar2.scss"
+  },
+  {
+    "outputFile": "wwwroot/Sass/Style2.css",
+    "inputFile": "wwwroot/Sass/Style2.scss"
+  }
+]
