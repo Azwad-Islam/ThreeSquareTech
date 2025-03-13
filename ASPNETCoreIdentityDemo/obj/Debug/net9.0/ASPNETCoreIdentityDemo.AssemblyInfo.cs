@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCoreIdentityDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e25626d507a598484bd075da1ffbc0ff307d2756")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3a23d18381b9eeeb69792df83c6c85605dec427")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCoreIdentityDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCoreIdentityDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,6 +13,6 @@ namespace ASPNETCoreIdentityDemo.Controllers
         {
             return View();
         }
-        public IActionResult 
+       // public IActionResult 
     }
 }
