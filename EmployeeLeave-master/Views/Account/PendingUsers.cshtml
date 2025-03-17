@@ -1,0 +1,30 @@
+﻿@model IEnumerable<EmployeeLeave.Data.Identity.ApplicationUser>
+
+<h2>Pending Users</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Username</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.UserName</td>
+                <td>
+                    <form method="post" asp-action="ApproveUser" asp-route-userId="@user.Id">
+                        <button type="submit" class="btn btn-success">Approve</button>
+                    </form>
+                    <form method="post" asp-action="RejectUser" asp-route-userId="@user.Id">
+                        <button type="submit" class="btn btn-danger">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

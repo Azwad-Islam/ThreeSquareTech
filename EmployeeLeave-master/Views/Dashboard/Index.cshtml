@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+<div class="card">
+    <div class="card-body">
+        <h4>Pending User Approvals</h4>
+        <p class="display-4">@ViewData["PendingUsers"]</p>
+        <a href="@Url.Action("PendingUsers", "Account")" class="btn btn-primary">Manage Pending Users</a>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <h4>Pending Leave Requests</h4>
+        <p class="display-4">@ViewData["PendingLeaves"]</p>
+    </div>
+</div>
