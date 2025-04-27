@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Mf/B95uzB2uTKNYScKTT2tNdRlTqtXyDIZAzS+QizPk=",
+  "Source": "FormSubmissionApp.Server",
+  "BasePath": "_content/FormSubmissionApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\azwad\\source\\repos\\FormSubmissionApp\\formsubmissionapp.client\\formsubmissionapp.client.esproj",
+      "Version": 2,
+      "Source": "formsubmissionapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
