@@ -1,0 +1,15 @@
+<div class="container mt-5">
+    <h2>Submitted Entries</h2>
+  
+    <ul class="list-group" *ngIf="submissions.length > 0; else noEntries">
+      <li class="list-group-item" *ngFor="let entry of submissions">
+        {{ entry.name }} - {{ entry.email }}
+      </li>
+    </ul>
+  
+    <ng-template #noEntries>
+      <div class="alert alert-info">
+        No submissions found.
+      </div>
+    </ng-template>
+  </div>
