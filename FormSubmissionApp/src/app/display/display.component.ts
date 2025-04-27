@@ -17,10 +17,10 @@ export class DisplayComponent implements OnInit {
     this.http.get<any[]>('https://localhost:7153/api/formdata').subscribe({
       next: (data) => {
         this.submissions = data;
-        console.log('✅ Loaded submissions:', data);
+        console.log('Loaded submissions:', data);
       },
       error: (err) => {
-        console.error('❌ Error fetching submissions:', err);
+        console.error('Error fetching submissions:', err);
       }
     });
   }
