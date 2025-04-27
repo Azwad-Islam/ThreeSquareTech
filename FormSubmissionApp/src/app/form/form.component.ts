@@ -29,11 +29,11 @@ export class FormComponent {
 
     this.http.post('https://localhost:7153/api/formdata', payload).subscribe({
       next: (res) => {
-        console.log('✅ Submitted successfully:', res);
+        console.log('Submitted successfully:', res);
         alert('Form submitted!');
       },
       error: (err) => {
-        console.error('❌ Error submitting form:', err);
+        console.error('Error submitting form:', err);
         alert('Error submitting.');
       }
     });
