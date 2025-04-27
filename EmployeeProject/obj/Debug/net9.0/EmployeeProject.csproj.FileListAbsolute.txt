@@ -1,0 +1,9 @@
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.RazorAssemblyInfo.cache
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.RazorAssemblyInfo.cs
+C:\Users\Threesquare\source\repos\ThreeSquareTech\EmployeeProject\obj\Debug\net9.0\EmployeeProject.sourcelink.json

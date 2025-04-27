@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\dappertesting\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|solutionrelative:endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\dappertesting\\endpoints\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|solutionrelative:endpoints\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\dappertesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0F610A-C64D-4069-B334-ECDE05B7189F}|DapperTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Endpoints\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Endpoints\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Endpoints\\Entities\\Product.cs",
+              "RelativeToolTip": "Endpoints\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:49:50.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Endpoints\\ProductEndpoints.cs*",
+              "RelativeToolTip": "Endpoints\\ProductEndpoints.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:45:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\DapperTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:23:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

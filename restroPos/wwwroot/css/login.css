@@ -1,0 +1,102 @@
+﻿.login-container {
+  display: flex;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+.login-container .image-side {
+  flex: 1;
+  background-image: url("/images/login-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.login-container .form-side {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+@media (max-width: 768px) {
+  .login-container .form-side {
+    flex: 100%;
+  }
+}
+
+.login-box {
+  width: 100%;
+  max-width: 450px;
+  padding: 2.5rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.login-box h3 {
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+}
+.login-box .form-control, .login-box .form-select {
+  border-radius: 5px;
+  padding: 0.75rem 1rem;
+  transition: all 0.3s;
+}
+.login-box .form-control:focus, .login-box .form-select:focus {
+  border-color: #4285f4;
+  box-shadow: 0 0 0 0.25rem rgba(66, 133, 244, 0.25);
+  outline: none;
+}
+.login-box .input-group-text {
+  background-color: #fff;
+  border-right: none;
+}
+.login-box .input-group-text i {
+  color: #6c757d;
+}
+.login-box .input-group .form-control {
+  border-left: none;
+}
+.login-box .toggle-password {
+  border-left: none;
+}
+.login-box .toggle-password:hover, .login-box .toggle-password:focus {
+  background-color: #f8f9fa;
+}
+
+.remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+}
+.remember-forgot a {
+  color: #4285f4;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+.remember-forgot a:hover {
+  color: rgb(17.805, 101.89, 241.195);
+  text-decoration: underline;
+}
+.remember-forgot .form-check-input:checked {
+  background-color: #4285f4;
+  border-color: #4285f4;
+}
+
+.login-button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: #4285f4;
+  border-color: #4285f4;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.login-button:hover, .login-button:focus {
+  background-color: rgb(17.805, 101.89, 241.195);
+  border-color: rgb(17.805, 101.89, 241.195);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.login-button:active {
+  transform: translateY(0);
+}

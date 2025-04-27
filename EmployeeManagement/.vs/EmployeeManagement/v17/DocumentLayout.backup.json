@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\entitys\\employeeleavecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:entitys\\employeeleavecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\dtos\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:dtos\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\entitys\\tables\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:entitys\\tables\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\entitys\\tables\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:entitys\\tables\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\services\\leaveservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:services\\leaveservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|c:\\users\\threesquare\\source\\repos\\threesquaretech\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF37CF-5424-4E48-BF55-1628FC14E92E}|EmployeeManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Controllers\\AccountController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:04:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\SignInModel.cs",
+              "RelativeToolTip": "Models\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:59:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:58:47.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:51:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:27:53.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:50:51.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\DTOs\\LeaveDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveDTO.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\DTOs\\LeaveDTO.cs",
+              "RelativeToolTip": "DTOs\\LeaveDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:41:52.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeLeaveContext.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\EmployeeLeaveContext.cs",
+              "RelativeDocumentMoniker": "Entitys\\EmployeeLeaveContext.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\EmployeeLeaveContext.cs",
+              "RelativeToolTip": "Entitys\\EmployeeLeaveContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:44:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:37:09.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\Tables\\Employee.cs",
+              "RelativeDocumentMoniker": "Entitys\\Tables\\Employee.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\Tables\\Employee.cs",
+              "RelativeToolTip": "Entitys\\Tables\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:25:04.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-13T04:04:26.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Leave.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\Tables\\Leave.cs",
+              "RelativeDocumentMoniker": "Entitys\\Tables\\Leave.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Entitys\\Tables\\Leave.cs",
+              "RelativeToolTip": "Entitys\\Tables\\Leave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:42:12.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:32:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\IService.cs",
+              "RelativeToolTip": "Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:36:33.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveServices.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\LeaveServices.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveServices.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Services\\LeaveServices.cs",
+              "RelativeToolTip": "Services\\LeaveServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:37:23.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T03:33:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:32:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:31:16.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d7ab9eb9-8d6f-4eed-adcc-ccc3b69584af",
+        "Display": 0,
+        "X": 680,
+        "Y": 132,
+        "Width": 1081,
+        "Height": 624,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Threesquare\\source\\repos\\ThreeSquareTech\\EmployeeManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:59:03.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
